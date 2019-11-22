@@ -8,3 +8,5 @@ You have to modify the components, so that:
 * the `activeId` is present only in `App` component's state,
 * it is passed to `TabSelector`,
 * the method allowing to change `activeId` is in the right place
+
+Link on Netlify : https://dazzling-raman-b48032.netlify.com/
